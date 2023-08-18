@@ -7,3 +7,4 @@ Python Projects from 100 Days of Code
 - Day 4 - Coin Toss Script, Rock, Paper, Scissors Game
 - Day 5 - Password Generator
 - Day 8 - Ceasar Cipher
+- Day 9 - Secret Auction

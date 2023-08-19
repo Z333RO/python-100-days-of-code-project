@@ -9,3 +9,4 @@ Python Projects from 100 Days of Code
 - Day 8 - Ceasar Cipher
 - Day 9 - Secret Auction
 - Day 10 - Calculator
+- Day 12 - Number guessing game

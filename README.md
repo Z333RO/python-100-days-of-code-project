@@ -10,3 +10,4 @@ Python Projects from 100 Days of Code
 - Day 9 - Secret Auction
 - Day 10 - Calculator
 - Day 12 - Number guessing game
+- Day 14 - Higher Lower Game

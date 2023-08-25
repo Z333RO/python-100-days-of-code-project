@@ -12,3 +12,4 @@ Python Projects from 100 Days of Code
 - Day 12 - Number guessing game
 - Day 14 - Higher Lower Game
 - Day 16 - Coffee Maker Machine
+- Day 17 - Quiz Game
